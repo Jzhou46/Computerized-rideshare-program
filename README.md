@@ -1,2 +1,9 @@
 # Computerized-rideshare-program
-Each group must work independently of other groups. Project grades will be based on conformance to the criteria of good software engineering. In particular, your designs will be evaluated based on the criteria of completeness, low coupling and high cohesion. Make sure to indicate whether you followed a structured approach for portions of your design. Make sure to include at least 3 patterns for object-oriented design in your design. An implementation should follow directly from your design. Your code will be evaluated on the basis of two criteria. First, the instructor and TAs will examine the quality of your coding style. For instance, we expect that you will thoroughly document your code. Variable and unit names should be indicative of the purpose of the variable or unit (use mnemonic names). Avoid, whenever possible, global variables since the use of these variables often results in unnecessary coupling among units. Second, we will check your code for compliance with the appropriate requirement definition verify compliance of your code with the above specifications.
+You have been contacted by Dr. Sidney Bigcheez, the Chancellor of the Southern North Dakota University
+(SNDU). Dr. Bigcheez is trying to reduce the cost for university employees who commute to the university
+each day by setting up a Computerized Rideshare Program (CRP). Employees typically must drive to the
+university due to the lack of public transportation in Southern North Dakota. This drive is time consuming
+and increasingly expensive due to the rising cost of gas. Dr. Bigcheez would like for a computer program to
+establish “car pools” of commuters. The commuters in each car poor would agree to share rides to SNDU
+by taking turns driving to the school. The program would ensure that people in the car pool each do their
+fair share of the driving.
